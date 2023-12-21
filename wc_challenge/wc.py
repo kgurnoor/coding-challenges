@@ -1,5 +1,5 @@
 import sys
-
+#my first code
 arr = sys.argv
 fl= sys.argv[-1]
 readFromFile =True
